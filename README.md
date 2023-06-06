@@ -18,8 +18,8 @@ Step 6 : Save and execute the program.
 
 ### Program:
 ```
-Developed By: G venkata Pavan Kumar
-Reg. No.: 212221240013
+Developed By: D.vishnu vardhan reddy
+Reg. No.: 212221230023
 ```
 ```
 #include "common.h"
